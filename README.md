@@ -1,5 +1,10 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 🖤
+meu nome é ana julia medeiros
+sou aluna do curso alura
+utilizo esse espaço para o compartilhamneto dos projetos feitos em aula 
 
+### Para entrar em contato 📫
+00001098112593sp@al.educacao.sp.gov.br
 <!--
 **kiki5318/kiki5318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
